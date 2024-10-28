@@ -86,7 +86,8 @@ img{
 
 .links {
      display: flex;
-     height: 265px;
+     /* height: 265px; */
+     height: 600px;
      background-color: transparent;
      flex-direction: column;
      min-width: 100%;
